@@ -1,14 +1,14 @@
 ```
-                                               /((                              
-                                     ((%%%%(   **/(                               
-                                  (///*****/** ,,*,,,,*/ &((#                    
-                                 ///*,,,,,/**,,...,*,,///(/%                        
-                                 /**/(*/*/((,...... ..,,,*(                    
-                                /**//,...    ,*,*,...,,,*/                      
-                                /***,,...       ...,,*/                              
-                                (/*,,....      ..,*                                  
-                                 (//,....    .....*                                
-                                    /***,,,...,***                                 
+                                               /((                              Hello all! my name is Ayham, I'm an 18 year old high-school student independently studying computer science.
+                                     ((%%%%(   **/(                             
+                                  (///*****/** ,,*,,,,*/ &((#                   I mostly program in C#, but I am confident with programming in any of the following languages:
+                                 ///*,,,,,/**,,...,*,,///(/%                    C#
+                                 /**/(*/*/((,...... ..,,,*(                     SQL
+                                /**//,...    ,*,*,...,,,*/                      Java
+                                /***,,...       ...,,*/                         JavaScript 
+                                (/*,,....      ..,*                             HTML
+                                 (//,....    .....*                             I hope you find something interesting on my profile :)
+                                    /***,,,...,***                              Have a wonderful day!
                                      *,***// (/**,                               
                                      (**,%   //,,,                     
                                       (///   *. .                          
@@ -35,7 +35,7 @@ class GithubInfo
     {
         Console.WriteLine("Hello all! my name is " + Name + ", I'm an " + Age + " year old high-school student independently studying computer science.");
         Console.WriteLine("");
-        Console.WriteLine("I mostly program in " + MainLanguage + ", but I am confident with programming in any of these languages:");
+        Console.WriteLine("I mostly program in " + MainLanguage + ", but I am confident with programming in any of the following languages:");
         foreach (string language in Languages)
         {
             Console.WriteLine(language);
